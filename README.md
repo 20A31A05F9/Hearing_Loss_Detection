@@ -13,9 +13,6 @@ This is a web based application developed for detecting Hearing Loss at Early St
 
 ## Screenshots
 
-
-![MainPage](https://github.com/20a31a05d8/FRTProject/assets/109793152/0167acaa-a8d1-4690-a8df-0a6a21ae08eb)
-
    
 
 ### Home Page -
