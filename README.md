@@ -60,10 +60,4 @@ This is a web based application developed for detecting Hearing Loss at Early St
 
 ![image](https://github.com/20A31A05F9/Hearing_Loss_Detection/assets/109793152/dc2d85c7-ad69-47c1-92b5-f4c0261500ac)
 
-## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
